@@ -92,7 +92,7 @@
         <finalName>mancala</finalName>
         <plugins>
 
-            <!-- FrontEnd Plugins -->
+            <!-- Frontend/Backend management Plugins -->
             <plugin>
                 <groupId>com.github.eirslett</groupId>
                 <artifactId>frontend-maven-plugin</artifactId>
