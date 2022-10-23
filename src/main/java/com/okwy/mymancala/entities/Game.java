@@ -7,4 +7,8 @@ package com.okwy.mymancala.entities;
  */
 
 public class Game {
+
+    private String gameId;
+
+    private Player winner;
 }

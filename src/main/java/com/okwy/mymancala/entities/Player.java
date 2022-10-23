@@ -7,4 +7,10 @@ package com.okwy.mymancala.entities;
  */
 
 public class Player {
+
+    private String playerId;
+
+    private String playerName;
+
+    private String playerEmail;
 }
