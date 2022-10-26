@@ -22,5 +22,5 @@ The major components that make up the same are described below:
 ####
 We can further break this down further by using facade pattern design to personalize what type of game is played at the time,
 identify that as an entity and further break it down to smaller components.
-####Mancala
+#### Mancala
 more description needed...
