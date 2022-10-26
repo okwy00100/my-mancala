@@ -1,5 +1,5 @@
 # My Mancala App implemenation
-This documentation is to keep track of major implementation decisions
+This documentation is to keep track of major decisions taken during implementation
 
 ## Frameworks and technologies
 The decisions for the frameworks and technologies to be considered during development are outlined below:
