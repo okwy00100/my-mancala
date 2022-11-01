@@ -17,8 +17,8 @@ holes in the board used as holding pits.
 First consideration in project design is identifying the entities that will make up the system.
 ### The Entities
 The major components that make up the same are described below:
-- Game
-- Player
+- Game: This contains description about the type of game, status, result and winner
+- Player: This contains description about the player, who the person is and how he can be uniquely identified
 ####
 We can further break this down further by using facade pattern design to personalize what type of game is played at the time,
 identify that as an entity and further break it down to smaller components.
