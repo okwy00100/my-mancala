@@ -16,9 +16,16 @@ public class Game {
 
     private GameType gameType;
 
-    private GameState gamestate;
+    private GameState state;
 
     private Player winner;
 
     private GameResult gameResult;
+
+
+    public Game(String gameId, GameType gameType, GameState state) {
+        this.gameId = gameId;
+        this.gameType = gameType;
+        this.state = state;
+    }
 }
