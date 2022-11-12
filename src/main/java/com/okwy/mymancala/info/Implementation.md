@@ -39,4 +39,3 @@ Also, the `winner` attribute is a join column to the Player table using the Play
 
 #### Mancala entity design
 more description needed...
-//TODO -   added constructor: explain
