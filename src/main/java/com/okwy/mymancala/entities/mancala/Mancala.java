@@ -13,4 +13,8 @@ public class Mancala {
     private String id;
 
     private Game game;
+
+    public Mancala(Game game) {
+        this.game = game;
+    }
 }
